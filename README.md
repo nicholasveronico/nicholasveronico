@@ -9,9 +9,9 @@
 
 <picture> <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXAzMWhicjEyNmpqa2l6bm1laHV2OXBvNnhzdmdwc295cHVhczVnNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/62PQv0smnhacoItYG9/source.gif" width = 250px></picture>
 
-- :school: I am a third-year IT student at [York University](https://yorku.ca).
+- :school: I am a fourth-year IT student at [York University](https://yorku.ca).
 - 🛠️: Currently working in Research IT @ [SickKids Hopsital](https://www.sickkids.ca/).
-- :technologist: I love using Software as a solution for every `Problem`.
+- :technologist: I love using software as a solution to every `Problem`.
 - :student: I’m currently learning `JavaScript` and `NodeJS`.
 - :nerd_face: Always `learning new things`.
   <br><br>
